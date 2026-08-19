@@ -50,7 +50,7 @@ A **real, deployed system** handling concurrent users with production-grade arch
 
 ---
 
-## 📊 What Sets You Apart
+## 📊 What Sets Me Apart
 
 ### **Production Thinking**
 Most freshers build tutorials. You built something **live**. You know what "handling 10x growth without redesign" actually means because you architected for it.
