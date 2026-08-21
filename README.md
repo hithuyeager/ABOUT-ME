@@ -53,35 +53,33 @@ A **real, deployed system** handling concurrent users with production-grade arch
 ## 📊 What Sets Me Apart
 
 ### **Production Thinking**
-Most freshers build tutorials. You built something **live**. You know what "handling 10x growth without redesign" actually means because you architected for it.
+Most freshers build tutorials. I built something **live**. I know what "handling 10x growth without redesign" actually means because I architected for it.
 
 ### **Security Instincts**
-Identified real vulnerabilities in production systems (studioapp.in). Understand the difference between "it works" and "it works safely." JWT rotation, Argon2, httpOnly cookies—these aren't buzzwords to you.
+Identified real vulnerabilities in production systems (studioapp.in). Understand the difference between "it works" and "it works safely." JWT rotation, Argon2, httpOnly cookies—these aren't buzzwords to me.
 
 ### **Self-Taught at Scale**
-Picked up FastAPI, PostgreSQL, WebSockets, Celery, JWT, OAuth2, Docker **independently**. No hand-holding. You own problems end-to-end.
+Picked up FastAPI, PostgreSQL, WebSockets, Celery, JWT, OAuth2, Docker **independently**. No hand-holding. I own problems end-to-end.
 
 ### **Systems Thinking**
-You don't just code features. You think about:
+I don't just code features. I think about:
 - How does this scale to 10x users?
 - What breaks under load?
 - How do we handle concurrent requests safely?
 - What's the failure mode?
 
-**This is what separates interns from engineers.**
 
 ---
 
 ## 🎯 Why You Should Hire Me
 
 **For internships:**
-- ✅ Zero ramp-up time. You can own features immediately.
-- ✅ Production experience. You've debugged real systems.
-- ✅ Security mindset. You think about more than just features.
+- ✅ Zero ramp-up time. I can own features immediately.
+- ✅ Production experience. I've debugged real systems.
+- ✅ Security mindset. I think about more than just features.
 - ✅ Fast learner. Picked up an entire stack independently.
-- ✅ Driven. Building toward ₹15L+ package in 1 year. You're investing in someone serious.
 
-**What you get:**
+**What I get:**
 - Someone who ships code, not excuses.
 - Someone who understands systems, not just syntax.
 - Someone who will own problems, not wait for answers.
@@ -105,7 +103,7 @@ You don't just code features. You think about:
 - Razorpay integration
 - Production-grade system
 
-**Job hunting (Mar-May 2027):** Ready for senior backend roles or AI/ML engineering. Target: ₹15L+ package, top-tier startup/scaleup.
+**Job hunting (Mar-May 2027):** Ready for senior backend roles or AI/ML engineering. Target: top-tier startup/scaleup.
 
 ---
 
